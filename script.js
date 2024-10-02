@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         NoTube
+// @name         FuckYoutube
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Skip ads on YouTube videos. Should be updated when new mesaures are taken by YouTube to prevent this script from working.
